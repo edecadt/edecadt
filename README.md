@@ -1,16 +1,16 @@
-## Hi there 👋
+# Introduction
+Hi! I'm Ezio, a Software Engineering student in the Software Maintenance and Evolution course.
 
-<!--
-**edecadt/edecadt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I expect to learn how real-world software is maintained, improved and kept reliable over time, including working with legacy code.
 
-Here are some ideas to get you started:
+- **Course expectations**: To gain hands-on experience in maintaining and evolving software and collaborating with Git and GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Love
+I'm passionate about the web and modern technologies:
+
+- **Web development**: building fast, modern and user-friendly web applications
+- **React**: component-based UI development
+- **Next.js**: full-stack React framework (SSR, routing, API routes)
+- **Modern tooling**: always exploring up-to-date tools and best practices
+
+![My Image](me.jpg)
